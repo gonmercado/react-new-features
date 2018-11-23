@@ -1,25 +1,37 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import { BrowserRouter as Router } from 'react-router-dom';
 import './App.css';
+import Sidebar from './comp/layout/Sidebar';
+import AppBody from './comp/layout/AppBody';
+import Header from './comp/layout/Header';
+import { UserContext } from './userContext';
+import { TitleContext } from './titleContext';
 
 class App extends Component {
+  state = {
+    userName: 'Gonzalo',
+    pageTitle: 'Este es el titulo por defecto'
+  };
+
+  handleChangeUser = userName => this.setState({ userName });
+
+  handlePageTitleChange = pageTitle => this.setState({ pageTitle });
+
   render() {
+    const { userName, pageTitle } = this.state;
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+        <UserContext.Provider value={ { userName, changeUser: this.handleChangeUser } }>
+          <TitleContext.Provider value={ { pageTitle, changeTitle: this.handlePageTitleChange } }>
+            <Header/>
+            <Router>
+              <div className={ 'App-body-wrapper'}>
+                <Sidebar />
+                <AppBody />
+              </div>
+            </Router>
+          </TitleContext.Provider>
+        </UserContext.Provider>
       </div>
     );
   }
