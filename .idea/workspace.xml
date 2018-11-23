@@ -2,40 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef626e44-853b-487d-849d-3ce67f48d3f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/new-react-features.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/context1/Context1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/context1/comp/hijo1/Hijo1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto1/Nieto1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto2/Nieto2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/context2/Context2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/context3/Context3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/hookState/HookStatePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/hookState/comp/ClassState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/hookState/comp/CurstomHook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/hookState/comp/HookState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/hookState/comp/ReducerHook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/layout/AppBody.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/layout/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/layout/Sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/page1/Page1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/page2/Page2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comp/page3/Page3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/WaitingComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/SharedCounter/SharedCounter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/reducer/counterReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/useHeaderTitle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/titleContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/userContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/usePageTitle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto2/Nieto2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto2/Nieto2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/comp/context3/Context3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/comp/context3/Context3.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -90,17 +61,80 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1216604365">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="18" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="18" />
+          <entry key="tsconfig" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="547" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="547" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/comp/layout/Sidebar.js">
+        <entry file="file://$PROJECT_DIR$/src/comp/hookState/HookStatePage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+            <state>
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="22" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#40#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/comp/hookState/comp/ReducerHook.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/comp/hookState/comp/ClassState.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/comp/hookState/comp/HookState.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -108,40 +142,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comp/context2/Context2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/comp/layout/AppBody.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state>
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/comp/context3/Context3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shared/useHeaderTitle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#46#0" expanded="true" />
+                <element signature="e#0#53#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            <state>
+              <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="4" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -160,19 +164,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/titleContext.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/comp/layout/Header.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state>
+              <caret line="10" column="58" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="58" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -181,24 +176,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
+        <entry file="file://$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto1/Nieto1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state>
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/comp/context3/Context3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/userContext.js">
+        <entry file="file://$PROJECT_DIR$/src/usePageTitle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state>
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -225,15 +245,16 @@
         <option value="$PROJECT_DIR$/src/userContext.js" />
         <option value="$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto1/Nieto1.js" />
         <option value="$PROJECT_DIR$/src/comp/context1/comp/hijo1/Hijo1.js" />
-        <option value="$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto2/Nieto2.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/titleContext.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/comp/layout/Header.js" />
-        <option value="$PROJECT_DIR$/src/comp/context2/Context2.js" />
         <option value="$PROJECT_DIR$/src/comp/layout/AppBody.js" />
         <option value="$PROJECT_DIR$/src/comp/layout/Sidebar.js" />
         <option value="$PROJECT_DIR$/src/shared/useHeaderTitle.js" />
+        <option value="$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto2/Nieto2.js" />
+        <option value="$PROJECT_DIR$/src/comp/context2/Context2.js" />
+        <option value="$PROJECT_DIR$/src/usePageTitle.js" />
         <option value="$PROJECT_DIR$/src/comp/context3/Context3.js" />
       </list>
     </option>
@@ -255,10 +276,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1937" />
-    <option name="height" value="1057" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -268,111 +289,65 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
+              <item name="new-react-features - Copy (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-react-features - Copy (2)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
+              <item name="new-react-features - Copy (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-react-features - Copy (2)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
+              <item name="new-react-features - Copy (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-react-features - Copy (2)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="comp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="context1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="context1" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="context1" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="hijo1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="context1" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="hijo1" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="context1" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="hijo1" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="nieto1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="context1" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="hijo1" type="462c0819:PsiDirectoryNode" />
-              <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="nieto2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
+              <item name="new-react-features - Copy (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-react-features - Copy (2)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="comp" type="462c0819:PsiDirectoryNode" />
               <item name="context2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
+              <item name="new-react-features - Copy (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-react-features - Copy (2)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="comp" type="462c0819:PsiDirectoryNode" />
-              <item name="context3" type="462c0819:PsiDirectoryNode" />
+              <item name="hookState" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="new-react-features" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-react-features" type="462c0819:PsiDirectoryNode" />
+              <item name="new-react-features - Copy (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-react-features - Copy (2)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
+              <item name="comp" type="462c0819:PsiDirectoryNode" />
+              <item name="hookState" type="462c0819:PsiDirectoryNode" />
+              <item name="comp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new-react-features - Copy (2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-react-features - Copy (2)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="comp" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="sidebar&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/comp/layout/Sidebar.js&#10;Appbod&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/comp/layout/AppBody.js&#10;app.css&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/App.css&#10;header&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/comp/layout/Header.js&#10;AppBody&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/comp/layout/AppBody.js&#10;appbod&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/comp/layout/AppBody.js&#10;cou&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/shared/reducer/counterReducer.js" />
+    <property name="SearchEverywhereHistoryKey" value="appbo&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features - Copy (2)/src/comp/layout/AppBody.js&#10;wai&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features - Copy (2)/src/helpers/WaitingComponent.js&#10;appbod&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features - Copy (2)/src/comp/layout/AppBody.js&#10;sidebar&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/comp/layout/Sidebar.js&#10;Appbod&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/comp/layout/AppBody.js&#10;app.css&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/App.css&#10;header&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/comp/layout/Header.js&#10;AppBody&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/comp/layout/AppBody.js&#10;cou&#9;FILE&#9;file://C:/__dev/__source/gonmercado/new-react-features/src/shared/reducer/counterReducer.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../contacts-agenda" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="C:\__dev\__source\gonmercado\new-react-features\node_modules\eslint" />
@@ -380,6 +355,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\__dev\__source\gonmercado\new-react-features\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -429,23 +405,23 @@
       <workItem from="1542891764759" duration="11166000" />
       <workItem from="1542923031180" duration="7988000" />
       <workItem from="1542977547602" duration="271000" />
+      <workItem from="1542994732106" duration="791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19425000" />
+    <option name="totallyTimeSpent" value="22628000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964539" visible="true" weight="0.13879709" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49367088" visible="true" weight="0.28029504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" sideWeight="0.5035461" side_tool="true" visible="true" weight="0.13879709" />
+      <window_info id="npm" order="2" sideWeight="0.50739956" side_tool="true" weight="0.18043622" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17021276" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -453,31 +429,11 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="npm" order="0" sideWeight="0.50161815" side_tool="true" visible="true" weight="0.13909379" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49838188" visible="true" weight="0.13909379" />
-      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -515,31 +471,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/comp/hookState/comp/ReducerHook.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/comp/hookState/comp/ClassState.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/comp/hookState/comp/CurstomHook.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/comp/hookState/comp/HookState.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -554,20 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helpers/WaitingComponent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/comp/hookState/HookStatePage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -592,45 +513,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto2/Nieto2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto1/Nieto1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/comp/layout/Sidebar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/comp/context2/Context2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/comp/layout/AppBody.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,19 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -661,16 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/comp/layout/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -678,17 +541,132 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/WaitingComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpers/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comp/layout/AppBody.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="60" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/userContext.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="72">
           <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto2/Nieto2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comp/hookState/HookStatePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comp/hookState/comp/ReducerHook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comp/hookState/comp/ClassState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comp/hookState/comp/HookState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comp/context2/Context2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comp/layout/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comp/context1/comp/hijo1/comp/nieto1/Nieto1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/usePageTitle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/comp/context3/Context3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        <state relative-caret-position="160">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

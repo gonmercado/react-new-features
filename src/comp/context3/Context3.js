@@ -1,11 +1,11 @@
 import React from 'react';
-import useHeaderTitle from '../../shared/useHeaderTitle';
+import usePageTitle from '../../usePageTitle';
 
 const Context3 = () => {
-  useHeaderTitle('Prueba desde context 3');
+  usePageTitle('otra fruta');
   return (
-    <div>Context page 2</div>
+    <div>Contexto 3</div>
   );
-};
+}
 
 export default Context3;
